@@ -1,4 +1,4 @@
-#Event Manager
+# Event Manager
 
 Following [jumpstartlab's](http://jumpstartlab.com/) tutorial to learn about serialization and working with CSV files and imperfect data. You can find the Event Manager tutorial [here](http://tutorials.jumpstartlab.com/projects/eventmanager.html).
 
